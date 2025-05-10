@@ -15,7 +15,7 @@ Jaya Jaya Institut merupakan institusi pendidikan tinggi yang telah berdiri seja
 
 ### Persiapan
 
-Sumber data: (https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/refs/heads/main/students_performance/data.csv)
+Sumber data: (https://github.com/Ezraliano/submission_akhir_data_science_final1/blob/main/data.csv)
 
 ## Set Up Metabase:
 1. Jalankan perintah berikut pada Terminal/Command Prompt/PowerShell guna memanggil (pull) Docker image untuk menjalankan Metabase.
